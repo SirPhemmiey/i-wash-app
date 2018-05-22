@@ -1,0 +1,3 @@
+rootProject.name = 'i_wash_app'
+
+include ':app'
